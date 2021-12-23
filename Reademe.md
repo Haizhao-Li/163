@@ -143,3 +143,6 @@ Hotkey:
 
 622115504 HIAZHAO LI
 622115501 Baolong Guo
+
+My name is Chen Yang and student ID is 649529451.
+Haizhao Li is my friend.
